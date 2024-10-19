@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "jsrsasign": "^11.1.0"
+  },
+  "devDependencies": {
+    "@types/jsrsasign": "^10.5.14"
+  }
+}
